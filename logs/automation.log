@@ -1,0 +1,145 @@
+2025-10-28 10:48:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\testng.xml
+
+2025-10-28 10:48:40 INFO  TC003_DDT:18 - **** Starting TC_003_LoginDDT *****
+2025-10-28 10:48:51 INFO  TC003_DDT:64 - **** Finished TC_003_LoginDDT *****
+2025-10-28 10:48:51 INFO  TC003_DDT:18 - **** Starting TC_003_LoginDDT *****
+2025-10-28 10:49:02 INFO  TC003_DDT:64 - **** Finished TC_003_LoginDDT *****
+2025-10-28 10:49:02 INFO  TC003_DDT:18 - **** Starting TC_003_LoginDDT *****
+2025-10-28 10:49:13 INFO  TC003_DDT:64 - **** Finished TC_003_LoginDDT *****
+2025-10-28 10:49:13 INFO  TC003_DDT:18 - **** Starting TC_003_LoginDDT *****
+2025-10-28 10:49:15 INFO  TC003_DDT:64 - **** Finished TC_003_LoginDDT *****
+2025-10-28 10:54:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\testng.xml
+
+2025-10-28 10:54:22 INFO  TC003_DDT:18 - **** Starting TC_003_LoginDDT *****
+2025-10-28 10:54:33 INFO  TC003_DDT:64 - **** Finished TC_003_LoginDDT *****
+2025-10-28 10:54:33 INFO  TC003_DDT:18 - **** Starting TC_003_LoginDDT *****
+2025-10-28 10:54:44 INFO  TC003_DDT:64 - **** Finished TC_003_LoginDDT *****
+2025-10-28 10:54:44 INFO  TC003_DDT:18 - **** Starting TC_003_LoginDDT *****
+2025-10-28 10:54:55 INFO  TC003_DDT:64 - **** Finished TC_003_LoginDDT *****
+2025-10-28 10:54:55 INFO  TC003_DDT:18 - **** Starting TC_003_LoginDDT *****
+2025-10-28 10:54:56 INFO  TC003_DDT:64 - **** Finished TC_003_LoginDDT *****
+2025-10-28 10:56:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\testng.xml
+
+2025-10-28 10:56:03 INFO  TC003_DDT:18 - **** Starting TC_003_LoginDDT *****
+2025-10-28 10:56:13 INFO  TC003_DDT:64 - **** Finished TC_003_LoginDDT *****
+2025-10-28 10:56:13 INFO  TC003_DDT:18 - **** Starting TC_003_LoginDDT *****
+2025-10-28 10:56:25 INFO  TC003_DDT:64 - **** Finished TC_003_LoginDDT *****
+2025-10-28 10:56:25 INFO  TC003_DDT:18 - **** Starting TC_003_LoginDDT *****
+2025-10-28 10:56:36 INFO  TC003_DDT:64 - **** Finished TC_003_LoginDDT *****
+2025-10-28 10:56:36 INFO  TC003_DDT:18 - **** Starting TC_003_LoginDDT *****
+2025-10-28 10:56:38 INFO  TC003_DDT:64 - **** Finished TC_003_LoginDDT *****
+2025-10-28 11:29:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-10-28 11:29:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-10-28 11:29:25 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-28 11:29:26 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-28 11:29:26 INFO  TC001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2025-10-28 11:29:27 INFO  TC001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2025-10-28 11:29:27 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2025-10-28 11:29:27 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2025-10-28 11:29:27 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2025-10-28 11:29:27 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2025-10-28 11:29:28 INFO  TC001_AccountRegistrationTest:40 - Validating expected message..
+2025-10-28 11:29:28 INFO  TC001_AccountRegistrationTest:45 - Test passed
+2025-10-28 11:29:28 INFO  TC001_AccountRegistrationTest:46 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-28 11:29:29 INFO  TC001_AccountRegistrationTest:40 - Validating expected message..
+2025-10-28 11:29:29 INFO  TC001_AccountRegistrationTest:45 - Test passed
+2025-10-28 11:29:29 INFO  TC001_AccountRegistrationTest:46 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-28 11:33:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-10-28 11:33:54 INFO  TC002_LoginTest:17 - **********Starting TC002_LoginTest ************ 
+2025-10-28 11:33:56 INFO  TC002_LoginTest:31 - **********successfully login ************ 
+2025-10-28 11:33:56 INFO  TC002_LoginTest:43 - **********Finshed TC002_LoginTest ************ 
+2025-10-28 11:34:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-10-28 11:34:49 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-28 11:34:50 INFO  TC001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2025-10-28 11:34:50 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2025-10-28 11:34:50 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2025-10-28 11:34:51 INFO  TC001_AccountRegistrationTest:40 - Validating expected message..
+2025-10-28 11:34:51 INFO  TC001_AccountRegistrationTest:45 - Test passed
+2025-10-28 11:34:51 INFO  TC001_AccountRegistrationTest:46 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-28 11:34:53 INFO  TC002_LoginTest:17 - **********Starting TC002_LoginTest ************ 
+2025-10-28 11:34:55 INFO  TC002_LoginTest:31 - **********successfully login ************ 
+2025-10-28 11:34:55 INFO  TC002_LoginTest:43 - **********Finshed TC002_LoginTest ************ 
+2025-10-28 11:35:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-10-28 11:35:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-10-28 11:36:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-10-28 16:31:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-10-28 16:31:15 INFO  TC002_LoginTest:20 - **********Starting TC002_LoginTest ************ 
+2025-10-28 16:31:17 INFO  TC002_LoginTest:34 - **********successfully login ************ 
+2025-10-28 16:31:17 INFO  TC002_LoginTest:52 - **********Finshed TC002_LoginTest ************ 
+2025-10-28 16:32:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\grouping.xml
+
+2025-10-28 16:32:52 INFO  TC002_LoginTest:20 - **********Starting TC002_LoginTest ************ 
+2025-10-28 16:32:53 INFO  TC002_LoginTest:34 - **********successfully login ************ 
+2025-10-28 16:32:54 INFO  TC002_LoginTest:52 - **********Finshed TC002_LoginTest ************ 
+2025-10-28 17:06:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\test-output\testng-failed.xml
+
+2025-10-28 17:09:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\testng.xml
+
+2025-10-28 17:09:33 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-28 17:09:33 INFO  TC001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2025-10-28 17:09:34 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2025-10-28 17:09:34 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2025-10-28 17:09:35 INFO  TC001_AccountRegistrationTest:40 - Validating expected message..
+2025-10-28 17:09:35 INFO  TC001_AccountRegistrationTest:45 - Test passed
+2025-10-28 17:09:35 INFO  TC001_AccountRegistrationTest:46 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-28 17:09:37 INFO  TC002_LoginTest:20 - **********Starting TC002_LoginTest ************ 
+2025-10-28 17:09:38 INFO  TC002_LoginTest:34 - **********successfully login ************ 
+2025-10-28 17:09:39 INFO  TC002_LoginTest:52 - **********Finshed TC002_LoginTest ************ 
+2025-10-28 17:10:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\test-output\testng-failed.xml
+
+2025-10-28 17:10:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rambabu rockzz\eclipse-workspace\OpencartV121\test-output\testng-failed.xml
+
+2025-10-28 22:17:21 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-28 22:17:22 INFO  TC001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2025-10-28 22:17:22 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2025-10-28 22:17:22 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2025-10-28 22:17:23 INFO  TC001_AccountRegistrationTest:40 - Validating expected message..
+2025-10-28 22:17:23 INFO  TC001_AccountRegistrationTest:45 - Test passed
+2025-10-28 22:17:23 INFO  TC001_AccountRegistrationTest:46 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-28 22:17:25 INFO  TC002_LoginTest:20 - **********Starting TC002_LoginTest ************ 
+2025-10-28 22:17:27 INFO  TC002_LoginTest:34 - **********successfully login ************ 
+2025-10-28 22:17:27 INFO  TC002_LoginTest:52 - **********Finshed TC002_LoginTest ************ 
+2025-10-28 23:27:06 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-28 23:27:07 INFO  TC001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2025-10-28 23:27:07 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2025-10-28 23:27:07 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2025-10-28 23:27:09 INFO  TC001_AccountRegistrationTest:40 - Validating expected message..
+2025-10-28 23:27:09 INFO  TC001_AccountRegistrationTest:45 - Test passed
+2025-10-28 23:27:09 INFO  TC001_AccountRegistrationTest:46 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-28 23:27:11 INFO  TC002_LoginTest:20 - **********Starting TC002_LoginTest ************ 
+2025-10-28 23:27:12 INFO  TC002_LoginTest:34 - **********successfully login ************ 
+2025-10-28 23:27:12 INFO  TC002_LoginTest:52 - **********Finshed TC002_LoginTest ************ 
+2025-10-28 23:51:54 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-28 23:51:54 INFO  TC001_AccountRegistrationTest:19 - Clicked on MyAccount Link.. 
+2025-10-28 23:51:54 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2025-10-28 23:51:55 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2025-10-28 23:51:56 INFO  TC001_AccountRegistrationTest:40 - Validating expected message..
+2025-10-28 23:51:56 INFO  TC001_AccountRegistrationTest:45 - Test passed
+2025-10-28 23:51:56 INFO  TC001_AccountRegistrationTest:46 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-28 23:51:58 INFO  TC002_LoginTest:20 - **********Starting TC002_LoginTest ************ 
+2025-10-28 23:51:59 INFO  TC002_LoginTest:34 - **********successfully login ************ 
+2025-10-28 23:52:00 INFO  TC002_LoginTest:52 - **********Finshed TC002_LoginTest ************ 
